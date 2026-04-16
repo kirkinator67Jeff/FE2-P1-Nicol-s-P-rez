@@ -2,10 +2,26 @@ Etapa 1: Estructura
 
 Prompt 1: hagamos una pagina de una consola de videojuegos, demostrando sus caracteristicas, generando interes en los usuarios
 
+Proposito: Aca se define la estructura de la pagina y se modela para futuras referencias, claro con el hecho de que la version basica me dara frutos para mejorar la pagina
+
 Prompt 2: ahora mejoremos visualmente la pagina, algo moderno, robusto, aplicando estilos variados y mejorando la distribucion
+
+Proposito: Aca se diseña la pagina a eleccion mia que fue algo moderno y robusto, tambien aca se organiza bien y da ejemplo a como se vera la pagina en su version final
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Etapa 2: Adaptacion y secciones
 
 Prompt 3: bien, ahora agreguemos mas secciones a la pagina como caracteristicas principales, los beneficios del producto, especificaciones tecnicasy ventajas frente a otros productos
 
+Proposito: Aca se agrega mas detalles de la consola, sus beneficios y ventajas sobre otras consolas, nada mas nada menos
+
 Prompt 4: ahora adaptemos la pagina para dispositivos moviles, adaptando el diseño, asegurar buena legibilidad y evitar superposiciones
 
+Proposito: Aca se adapta la pagina web para dispositivos moviles, re estructurando la pagina y arreglando errores
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Etapa 3 Final: Ficha de producto
+
 Prompt 5: ahora para una mejora final demosle una seccion tipo ficha de producto con caracteristicas organizadas, 4 atributos tecnicos relevantes y dando una presentacion clara y ordenada a la presentacion
+
+Proposito: Aca se finaliza la pagina haciendo una ficha de producto como seccion con sus 4 atributos tecnicos relevantes y mejorando mas la presentacion de la pagina.
