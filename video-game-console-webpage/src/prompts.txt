@@ -1,3 +1,5 @@
 Prompt 1: hagamos una pagina de una consola de videojuegos, demostrando sus caracteristicas, generando interes en los usuarios
 
 Prompt 2: ahora mejoremos visualmente la pagina, algo moderno, robusto, aplicando estilos variados y mejorando la distribucion
+
+Prompt 3: bien, ahora agreguemos mas secciones a la pagina como caracteristicas principales, los beneficios del producto, especificaciones tecnicasy ventajas frente a otros productos
