@@ -1,3 +1,5 @@
+Etapa 1: Estructura
+
 Prompt 1: hagamos una pagina de una consola de videojuegos, demostrando sus caracteristicas, generando interes en los usuarios
 
 Prompt 2: ahora mejoremos visualmente la pagina, algo moderno, robusto, aplicando estilos variados y mejorando la distribucion
@@ -5,3 +7,5 @@ Prompt 2: ahora mejoremos visualmente la pagina, algo moderno, robusto, aplicand
 Prompt 3: bien, ahora agreguemos mas secciones a la pagina como caracteristicas principales, los beneficios del producto, especificaciones tecnicasy ventajas frente a otros productos
 
 Prompt 4: ahora adaptemos la pagina para dispositivos moviles, adaptando el diseño, asegurar buena legibilidad y evitar superposiciones
+
+Prompt 5: ahora para una mejora final demosle una seccion tipo ficha de producto con caracteristicas organizadas, 4 atributos tecnicos relevantes y dando una presentacion clara y ordenada a la presentacion
