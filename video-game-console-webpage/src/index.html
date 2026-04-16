@@ -1,41 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Game Console Showcase</title>
+    <title>Consola de Videojuegos - Vitrina</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
-    <header>
-        <h1>Welcome to the Ultimate Gaming Experience</h1>
-        <p>Discover the next generation of gaming with our latest console.</p>
+    <header class="header">
+        <div class="header-content">
+            <h1 class="header-title">🎮 Experiencia Gamer Definitiva</h1>
+            <p class="header-subtitle">La próxima generación de videojuegos está aquí</p>
+        </div>
     </header>
-    <main>
-        <section id="features">
-            <h2>Features</h2>
-            <ul>
-                <li>Stunning Graphics with 4K Resolution</li>
-                <li>Lightning-Fast Load Times</li>
-                <li>Exclusive Game Titles</li>
-                <li>Seamless Online Multiplayer</li>
-                <li>Customizable Controllers</li>
-            </ul>
+
+    <main class="main-container">
+        <section id="features" class="features-section">
+            <h2 class="section-title">✨ Características Principales</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎬</div>
+                    <h3>Gráficos 4K</h3>
+                    <p>Gráficos impresionantes en resolución 4K con una fluidez incomparable</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Carga Ultra Rápida</h3>
+                    <p>Tiempos de carga instantáneos que revolucionan tu experiencia</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎮</div>
+                    <h3>Títulos Exclusivos</h3>
+                    <p>Acceso exclusivo a los mejores títulos del mercado gamer</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🌐</div>
+                    <h3>Multijugador Online</h3>
+                    <p>Conecta con jugadores de todo el mundo de forma fluida</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎛️</div>
+                    <h3>Controles Personalizables</h3>
+                    <p>Personaliza cada aspecto de tus controles a tu medida</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔊</div>
+                    <h3>Audio Envolvente</h3>
+                    <p>Sonido Dolby Atmos para una inmersión total</p>
+                </div>
+            </div>
         </section>
-        <section id="gallery">
-            <h2>Gallery</h2>
-            <img src="assets/images/console1.jpg" alt="Console Image 1">
-            <img src="assets/images/console2.jpg" alt="Console Image 2">
+
+        <section id="gallery" class="gallery-section">
+            <h2 class="section-title">📸 Galería</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="assets/images/console1.jpg" alt="Imagen de Consola 1">
+                    <div class="gallery-overlay">Ver más</div>
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/images/console2.jpg" alt="Imagen de Consola 2">
+                    <div class="gallery-overlay">Ver más</div>
+                </div>
+            </div>
         </section>
-        <section id="call-to-action">
-            <h2>Get Yours Now!</h2>
-            <p>Join the gaming revolution. Pre-order today and receive exclusive bonuses!</p>
-            <button id="preorder-button">Pre-order Now</button>
+
+        <section id="call-to-action" class="cta-section">
+            <div class="cta-content">
+                <h2 class="cta-title">¡Consigue la Tuya Ahora!</h2>
+                <p class="cta-text">Únete a millones de gamers. Realiza tu pre-orden hoy y recibe bonos exclusivos.</p>
+                <button id="preorder-button" class="cta-button">Pre-ordenar Ahora</button>
+            </div>
         </section>
     </main>
-    <footer>
-        <p>&copy; 2023 Video Game Console. All rights reserved.</p>
+
+    <footer class="footer">
+        <p>&copy; 2026 Consola de Videojuegos. Todos los derechos reservados.</p>
     </footer>
+
     <script src="assets/js/script.js"></script>
 </body>
 </html>
